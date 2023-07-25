@@ -7,6 +7,9 @@ public class GitHub {
 		
 	}
 	
-	
+	private void launchUrl() {
+		System.out.println("Url launched");
+
+	}
 	
 }
