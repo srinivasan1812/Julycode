@@ -8,5 +8,9 @@ public class GitHub {
 	}
 	
 	
+	 private void browserlaunch() {
+		
+		 System.out.println("Browser launched");
+	}
 	
 }
